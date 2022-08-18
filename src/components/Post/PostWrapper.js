@@ -83,7 +83,9 @@ export const PostWrapper = styled.section`
         width: 100%;
         height: 200px;
         content: "";
-        box-shadow: inset 0 -7px 9px -1px #15202b;
+        -webkit-box-shadow: inset 0px -197px 99px -168px #15202b;
+        -moz-box-shadow: inset 0px -197px 99px -168px #15202b;
+        box-shadow: inset 0px -197px 99px -168px #15202b;
       }
 
       .post_content_text {
@@ -109,19 +111,19 @@ export const PostWrapper = styled.section`
 
       .post_link {
         cursor: pointer;
-        
-        &.post_link_like.active > svg{
+
+        &.post_link_like.active > svg {
           color: palevioletred;
         }
-        
-        &.post_link_comment.active > svg{
+
+        &.post_link_comment.active > svg {
           color: cornflowerblue;
         }
-        
-        &.post_link_repost.active > svg{
+
+        &.post_link_repost.active > svg {
           color: greenyellow;
         }
-        
+
         span {
           margin-left: 5px;
         }
