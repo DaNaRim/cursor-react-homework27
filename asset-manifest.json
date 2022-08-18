@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cursor-react-homework27/static/css/main.1ef3a49a.css",
+    "main.js": "/cursor-react-homework27/static/js/main.1cbbfe3b.js",
+    "static/js/787.711fa0d2.chunk.js": "/cursor-react-homework27/static/js/787.711fa0d2.chunk.js",
+    "static/media/Ray-Lucas.png": "/cursor-react-homework27/static/media/Ray-Lucas.c5f71002a270e633a944.png",
+    "static/media/Anakin.jpg": "/cursor-react-homework27/static/media/Anakin.9482bac92d4c3d564b9f.jpg",
+    "index.html": "/cursor-react-homework27/index.html",
+    "main.1ef3a49a.css.map": "/cursor-react-homework27/static/css/main.1ef3a49a.css.map",
+    "main.1cbbfe3b.js.map": "/cursor-react-homework27/static/js/main.1cbbfe3b.js.map",
+    "787.711fa0d2.chunk.js.map": "/cursor-react-homework27/static/js/787.711fa0d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.1cbbfe3b.js"
+  ]
+}
